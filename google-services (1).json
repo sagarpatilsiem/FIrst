@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "363429066416",
+    "firebase_url": "https://exampleofjava-db49e.firebaseio.com",
+    "project_id": "exampleofjava-db49e",
+    "storage_bucket": "exampleofjava-db49e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363429066416:android:c7b9d1ecb2cf1e22",
+        "android_client_info": {
+          "package_name": "com.examole.hp.exampleofjava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363429066416-el4s7kj1eulh4mcfvonpruvi8oohlr9l.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "363429066416-el4s7kj1eulh4mcfvonpruvi8oohlr9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoKRqa4PIwUeEoIko-8M2sN9rmE44xw-g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
